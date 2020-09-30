@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Partiel_prog_avancee/src/fr/n7/cnam/nfp121/pr01/Start.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="fr.n7.cnam.nfp121.pr01.Start"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-traitdesc ./fichiers/traitementDesc.txt  ./fichiers/donnees.txt ./fichiers/donnees-erreurs.txt ./fichiers/donneesSaisieSwingTXT.txt ./fichiers/donneesSaisieSwingXML.xml"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Partiel_prog_avancee"/>
+</launchConfiguration>

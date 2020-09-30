@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE interfaces SYSTEM "interfaces.dtd">
+<interfaces>
+  <auto>
+    <name value="lo" />
+  </auto>
+</interfaces>

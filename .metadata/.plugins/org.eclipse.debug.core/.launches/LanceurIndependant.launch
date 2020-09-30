@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Testeur/src/fr/n7/cnam/nfp121/tp17junit/LanceurIndependant.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="fr.n7.cnam.nfp121.tp17junit.LanceurIndependant"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="fr.n7.cnam.nfp121.tp17junit.MonnaieTest&#13;&#10;fr.n7.cnam.nfp121.tp17junit.MonnaieTest2&#13;&#10;fr.n7.cnam.nfp121.tp17junit.CasLimitesTest"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Testeur"/>
+</launchConfiguration>
